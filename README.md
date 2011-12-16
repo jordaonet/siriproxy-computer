@@ -61,4 +61,4 @@ Transmission pause, pause all, pause transfers
 Transmission start, start all, start transfers
 
 
-Any questions, ask on twitter: @ian_mcdowell
+Any questions, ask on twitter: @jordaonet
